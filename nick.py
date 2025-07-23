@@ -1,1 +1,8 @@
 print("Hello G3!")
+print("test with ren")
+print("text1")
+print("text2")
+print("text3")
+print("text4")
+print("text5")
+print("text6")
