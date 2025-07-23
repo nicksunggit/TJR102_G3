@@ -1,0 +1,1 @@
+print("It's glad to be your teamate.")
