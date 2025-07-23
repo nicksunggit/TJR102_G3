@@ -14,3 +14,6 @@ print("test3")
 print("test4")
 print("test5")
 print("test6")
+
+
+print("老師說只能改自己的程式")
