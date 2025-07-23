@@ -1,1 +1,1 @@
-print("It's glad to be your teamate.")
+print("It's glad to be your teammate.")
